@@ -1,7 +1,6 @@
 {
   "name": "miup-who",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.6",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.81.0"
-  }
+    "request": "^2.81.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw949561391/miup-who.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tw949561391/miup-who/issues"
+  },
+  "homepage": "https://github.com/tw949561391/miup-who#readme",
+  "description": ""
 }
